@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript, Reactjs, Django**
 
 - 📫 How to reach me **udayasreekareti@gmail.com**
 
